@@ -8,6 +8,6 @@
 ![](https://github.com/Zaky202/ZakyCryptBot/blob/main/Image.png?raw=true)
 #
 Don't Forget To Follow Me On @Instagram
-###@zaky1_mohammed
+### @zaky1_mohammed
     
 Thanks :)
