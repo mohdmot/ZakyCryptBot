@@ -6,8 +6,3 @@
 - [x] You Can't Encrypt or Decrypt Bytes (.mp3 / .mp4 / .jpg / .png / ... )
 #
 ![](https://github.com/Zaky202/ZakyCryptBot/blob/main/Image.png?raw=true)
-#
-Don't Forget To Follow Me On @Instagram
-### @zaky1_mohammed
-    
-Thanks :)
